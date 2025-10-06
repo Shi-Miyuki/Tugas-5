@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Task
+comment0.text=\n\ Merepresentasikan\ sebuah\ tugas\ dengan\ judul\ dan\ deskripsi.\n
+comment1.params=title\ description
+comment1.target=Task(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Konstruktor\ untuk\ kelas\ Task.\n\n\ @param\ title\ Judul\ tugas.\n\ @param\ description\ Deskripsi\ tugas.\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\n\ Mengambil\ judul\ tugas.\n\n\ @return\ Judul\ tugas.\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\n\ Mengambil\ deskripsi\ tugas.\n\n\ @return\ Deskripsi\ tugas.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Mengembalikan\ representasi\ string\ dari\ objek\ Task.\n\n\ @return\ String\ yang\ berisi\ judul\ dan\ deskripsi\ tugas.\n
+numComments=5

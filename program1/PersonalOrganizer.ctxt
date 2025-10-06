@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=PersonalOrganizer
+comment0.text=\n\ Aplikasi\ Personal\ Organizer\ sederhana\ untuk\ mengelola\ daftar\ tugas.\n\ Kelas\ ini\ berisi\ metode\ main\ dan\ logika\ menu\ utama.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\n\ Menampilkan\ menu\ opsi\ kepada\ pengguna.\n
+comment3.params=tasks\ scanner
+comment3.target=void\ addTask(java.util.ArrayList,\ java.util.Scanner)
+comment3.text=\n\ Menambahkan\ tugas\ baru\ ke\ daftar\ tugas.\n\n\ @param\ tasks\ Daftar\ tugas.\n\ @param\ scanner\ Objek\ Scanner\ untuk\ input\ pengguna.\n
+comment4.params=tasks
+comment4.target=void\ viewTasks(java.util.ArrayList)
+comment4.text=\n\ Menampilkan\ semua\ tugas\ dalam\ daftar.\n\n\ @param\ tasks\ Daftar\ tugas.\n
+comment5.params=tasks\ scanner
+comment5.target=void\ deleteTask(java.util.ArrayList,\ java.util.Scanner)
+comment5.text=\n\ Menghapus\ tugas\ dari\ daftar\ berdasarkan\ nomor.\n\n\ @param\ tasks\ Daftar\ tugas.\n\ @param\ scanner\ Objek\ Scanner\ untuk\ input\ pengguna.\n
+numComments=6
