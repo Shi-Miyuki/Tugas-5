@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\n\ Merepresentasikan\ sebuah\ objek\ buku\ dengan\ judul,\ penulis,\ dan\ tahun\ terbit.\n
+comment1.params=title\ author\ year
+comment1.target=Book(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Konstruktor\ untuk\ kelas\ Book.\n\n\ @param\ title\ Judul\ buku.\n\ @param\ author\ Penulis\ buku.\n\ @param\ year\ Tahun\ terbit\ buku.\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\n\ Mengambil\ judul\ buku.\n\n\ @return\ Judul\ buku.\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Mengembalikan\ representasi\ string\ dari\ objek\ Book.\n\n\ @return\ String\ yang\ berisi\ judul,\ penulis,\ dan\ tahun\ terbit.\n
+numComments=4

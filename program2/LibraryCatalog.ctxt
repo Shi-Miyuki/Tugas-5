@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LibraryCatalog
+comment0.text=\n\ Aplikasi\ sederhana\ untuk\ mengelola\ katalog\ buku\ perpustakaan.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\n\ Menampilkan\ menu\ opsi\ kepada\ pengguna.\n
+comment3.params=catalog\ scanner
+comment3.target=void\ addBook(java.util.ArrayList,\ java.util.Scanner)
+comment3.text=\n\ Menambahkan\ buku\ baru\ ke\ katalog.\n\n\ @param\ catalog\ Daftar\ buku.\n\ @param\ scanner\ Objek\ Scanner\ untuk\ input\ pengguna.\n
+comment4.params=catalog
+comment4.target=void\ viewAllBooks(java.util.ArrayList)
+comment4.text=\n\ Menampilkan\ semua\ buku\ dalam\ katalog.\n\n\ @param\ catalog\ Daftar\ buku.\n
+comment5.params=catalog\ scanner
+comment5.target=void\ searchBook(java.util.ArrayList,\ java.util.Scanner)
+comment5.text=\n\ Mencari\ buku\ berdasarkan\ judul\ (pencarian\ sebagian,\ tidak\ case-sensitive).\n\n\ @param\ catalog\ Daftar\ buku.\n\ @param\ scanner\ Objek\ Scanner\ untuk\ input\ pengguna.\n
+comment6.params=catalog\ scanner
+comment6.target=void\ deleteBook(java.util.ArrayList,\ java.util.Scanner)
+comment6.text=\n\ Menghapus\ buku\ dari\ katalog\ berdasarkan\ nomor\ urut\ yang\ ditampilkan.\n\n\ @param\ catalog\ Daftar\ buku.\n\ @param\ scanner\ Objek\ Scanner\ untuk\ input\ pengguna.\n
+numComments=7
